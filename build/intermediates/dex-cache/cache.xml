@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_studio_workspace\Cocos2d04\app\libs\cocos2d-android.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9f6c9f5ae05ee941b074037d1f64fa75fd7b3690">
+        <dex dex="D:\android_studio_workspace\Cocos2d04\app\build\intermediates\pre-dexed\debug\cocos2d-android-09e5513457d8c10c4d0792c1f6ab0ea3f82a97d3.jar" />
+    </item>
+    <item
+        jar="D:\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\android_studio_workspace\Cocos2d04\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-06f6838d042bd52b584513a72de16771f90e535b.jar" />
+    </item>
+
+</items>
